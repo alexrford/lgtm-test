@@ -1,5 +1,5 @@
-function f(x) {
-  alert(x);
+function f(x, y, z) {
+  alert(x + y + z);
 }
 
 
