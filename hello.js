@@ -1,4 +1,4 @@
-function foo(x) {
+function f(x) {
   alert(x);
 }
 
